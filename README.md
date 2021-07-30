@@ -19,4 +19,4 @@ In order to make an antenna for this frequency the major issue I faced was that 
 
 The PCB was designed in [KiCad](https://gitlab.com/kicad/code/kicad) and calculations for the required inductance were made using the following [reference](https://ww1.microchip.com/downloads/en/AppNotes/00710c.pdf) (This can be generalized to other frequencies).
 
-The PCB is difficult to manufacture and solder. Soldering these will require a stencil and hot air station for the small traces of the ATA5577. My success rate with soldering with a hot air station and stencil is 75% having only soldered four tags.
+The PCB is difficult to manufacture and solder. Soldering these will require a stencil and hot air station for the small traces of the ATA5577. My success rate, soldering with a hot air station and stencil, is 75% having only soldered four tags.
